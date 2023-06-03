@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "category": "animal",
+        "names": {
+            "name": "Many-spotted Tree Iguana",
+            "species": "Liolaemus nigromaculatus"
+        },
+        "location": {
+            "country": "Chile",
+            "city": "Pan de azucar National Park",
+            "latitud": -26.144205,
+            "longitude": -70.633297
+        },
+        "description": "This beautiful lizard was spotted when travelling around the Atacama Desert, the driest dessert in the world!",
+        "image": "../src/assets/images/1.jpg"
+    },
+    {
+        "id": 2,
+        "category": "animal",
+        "names": {
+            "name": "Common Starling",
+            "species": "Sturnus vulgaris"
+        },
+        "location": {
+            "country": "UK",
+            "city": "London",
+            "latitud": 51.505891, 
+            "longitude": -0.162481
+        },
+        "description": "Common Starling enjoying the sun in Hyde Park",
+        "image": "../src/assets/images/2.jpg"
+    },
+    {
+        "id": 3,
+        "category": "animal",
+        "names": {
+            "name": "Loggerhead Turtle",
+            "species": "Caretta caretta"
+        },
+        "location": {
+            "country": "Brazil",
+            "city": "Praia do Forte",
+            "latitud": -12.577344, 
+            "longitude": -38.001560
+        },
+        "description": "TAMAR Marine Turtle is non-profit organisation that operates across Brazil",
+        "image": "../src/assets/images/3.jpg"
+    },
+    {
+        "id": 4,
+        "category": "animal",
+        "names": {
+            "name": "Cururu Toad",
+            "species": "Rhinella jimi"
+        },
+        "location": {
+            "country": "Brazil",
+            "city": "Lençóis",
+            "latitud": -12.564671, 
+            "longitude": -41.396156
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/4.jpg"
+    },
+    {
+        "id": 5,
+        "category": "animal",
+        "names": {
+            "name": "Red-rumped agouti",
+            "species": "Dasyprocta leporina"
+        },
+        "location": {
+            "country": "Brazil",
+            "city": "Rio de Janeiro",
+            "latitud": -22.941950, 
+            "longitude": -43.263938
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/5.jpg"
+    },
+    {
+        "id": 6,
+        "category": "animal",
+        "names": {
+            "name": "Amazon Lava Lizard",
+            "species": "Tropidurus torquatus"
+        },
+        "location": {
+            "country": "Brazil",
+            "city": "Ilha Grande",
+            "latitud": -23.178310, 
+            "longitude": -44.121761
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/6.jpg"
+    },
+    {
+        "id": 7,
+        "category": "animal",
+        "names": {
+            "name": "Black vulture",
+            "species": "Coragyps atratus"
+        },
+        "location": {
+            "country": "Brazil",
+            "city": "Ilha Grande",
+            "latitud": -23.178310, 
+            "longitude": -44.121761
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/7.jpg"
+    },
+    {
+        "id": 8,
+        "category": "animal",
+        "names": {
+            "name": "Toco toucan",
+            "species": "Ramphastos toco"
+        },
+        "location": {
+            "country": "Brazil",
+            "city": "Foz do Iguaçu",
+            "latitud": -25.684171, 
+            "longitude": -54.445835
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/8.jpg"
+    },
+    {
+        "id": 9,
+        "category": "animal",
+        "names": {
+            "name": "Plush-crested jay",
+            "species": "Cyanocorax chrysops"
+        },
+        "location": {
+            "country": "Brazil",
+            "city": "Foz do Iguaçu",
+            "latitud": -25.684171, 
+            "longitude": -54.445835
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/9.jpg"
+    },
+    {
+        "id": 10,
+        "category": "animal",
+        "names": {
+            "name": "Mandarin duck",
+            "species": "Aix galericulata"
+        },
+        "location": {
+            "country": "UK",
+            "city": "London",
+            "latitud": 51.477891, 
+            "longitude": -0.154374
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/10.jpg"
+    },
+    {
+        "id": 11,
+        "category": "animal",
+        "names": {
+            "name": "Fallow deer",
+            "species": "Dama dama"
+        },
+        "location": {
+            "country": "UK",
+            "city": "London",
+            "latitud": 51.442146, 
+            "longitude": -0.268994
+        },
+        "description": "Courtship ritual",
+        "image": "../src/assets/images/11.jpg"
+    },
+    {
+        "id": 12,
+        "category": "plant",
+        "names": {
+            "name": "Poor-man's-orchid",
+            "species": "Schizanthus litoralis"
+        },
+        "location": {
+            "country": "Chile",
+            "city": "Coquimbo",
+            "latitud": -29.961893,
+            "longitude": -71.319661
+        },
+        "description": "Also known as butterfly flower",
+        "image": "../src/assets/images/12.jpg"
+    },
+    {
+        "id": 13,
+        "category": "animal",
+        "names": {
+            "name": "Brown-hooded gull ",
+            "species": "Chroicocephalus maculipennis"
+        },
+        "location": {
+            "country": "Chile",
+            "city": "Puerto Varas",
+            "latitud": -41.211975, 
+            "longitude": -72.545766
+        },
+        "description": "Courtship ritual",
+        "image": "../src/assets/images/13.jpg"
+    },
+    {
+        "id": 14,
+        "category": "animal",
+        "names": {
+            "name": "Green Iguana",
+            "species": "Iguana iguana"
+        },
+        "location": {
+            "country": "US",
+            "city": "Miami",
+            "latitud": 25.702474, 
+            "longitude": -80.161835
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/14.jpg"
+    },
+    {
+        "id": 15,
+        "category": "animal",
+        "names": {
+            "name": "Sandhill crane",
+            "species": "Antigone canadensis"
+        },
+        "location": {
+            "country": "US",
+            "city": "Sarasota",
+            "latitud": 27.320382, 
+            "longitude": -82.504623
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/15.jpg"
+    },
+    {
+        "id": 16,
+        "category": "animal",
+        "names": {
+            "name": "Chipmunk",
+            "species": "Tamias striatus"
+        },
+        "location": {
+            "country": "US",
+            "city": "New York",
+            "latitud": 40.779547, 
+            "longitude": -73.967491
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/16.jpg"
+    },
+    {
+        "id": 17,
+        "category": "animal",
+        "names": {
+            "name": "Blue Jay",
+            "species": "Cyanocitta cristata"
+        },
+        "location": {
+            "country": "US",
+            "city": "New York",
+            "latitud": 40.779547, 
+            "longitude": -73.967491
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/17.jpg"
+    },
+    {
+        "id": 18,
+        "category": "animal",
+        "names": {
+            "name": "Robin",
+            "species": "Erithacus rubecula"
+        },
+        "location": {
+            "country": "UK",
+            "city": "London",
+            "latitud": 51.477891, 
+            "longitude": -0.154374
+        },
+        "description": "animal in the garden",
+        "image": "../src/assets/images/18.jpg"
+    },
+    {
+        "id": 19,
+        "category": "plant",
+        "names": {
+            "name": "Ortiga brava",
+            "species": "Loasa Tricolor"
+        },
+        "location": {
+            "country": "Chile",
+            "city": "Llanos de Challe National Park",
+            "latitud": -28.180255, 
+            "longitude": -71.145521
+        },
+        "description": "plant in blooming desert",
+        "image": "../src/assets/images/19.jpg"
+    },
+    {
+        "id": 20,
+        "category": "plant",
+        "names": {
+            "name": "Lion's claw",
+            "species": "Leontochir ovallei"
+        },
+        "location": {
+            "country": "Chile",
+            "city": "Llanos de Challe National Park",
+            "latitud": -28.180255, 
+            "longitude": -71.145521
+        },
+        "description": "plant",
+        "image": "../src/assets/images/20.jpg"
+    }
+]

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
     return (
         <nav>
-            <h1>Photo Gallery</h1>
+            <h1>Creatures <span>Gallery</span></h1>
         </nav>
     );
 };

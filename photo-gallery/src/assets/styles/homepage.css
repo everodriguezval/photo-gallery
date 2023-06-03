@@ -1,0 +1,26 @@
+article h1 {
+    margin: 1rem 0;
+  }
+  
+  .main-container {
+    padding: 0 1rem;
+  }
+  
+  .animal-card, .plant-card {
+    background-color: rgba(88, 222, 222, 0.701);
+    padding: 1rem;
+    margin: 1rem 2rem 0 2rem;
+    border-radius: 15px;
+    text-align: center;
+  }
+  
+  .animal-card h2, .plant-card h2 {
+    font-size: 1.1rem;
+  }
+  
+  .animal-card img, .plant-card img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+    margin-top: 0.8rem;
+  }

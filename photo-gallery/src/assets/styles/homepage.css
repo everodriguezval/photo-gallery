@@ -7,20 +7,34 @@ article h1 {
   }
   
   .animal-card, .plant-card {
-    background-color: rgba(88, 222, 222, 0.701);
     padding: 1rem;
-    margin: 1rem 2rem 0 2rem;
+    margin: 1rem auto 0 auto;
     border-radius: 15px;
     text-align: center;
+    height: 30vh;
+    width: 80%;
   }
+
+
   
   .animal-card h2, .plant-card h2 {
     font-size: 1.1rem;
   }
   
-  .animal-card img, .plant-card img {
-    display: block;
-    margin: 0 auto;
-    border-radius: 15px;
-    margin-top: 0.8rem;
+  .animal-card {
+    background-image: url(../images/8.jpg);
+    background-size: cover;
+  }
+
+  .plant-card {
+    margin-bottom: 1rem ;
+    background-image: url(../images/19.jpg);
+    background-size: cover;
+  }
+
+
+  @media screen and (min-width: 900px) {
+    .animal-card:hover, .plant-card:hover {
+        border: 2px yellow solid;
+      }
   }
